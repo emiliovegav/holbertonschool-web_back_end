@@ -1,2 +1,3 @@
 // my comment
-show dbs
+cat SQL_introduction/0-list_databases.sql | mysql -hlocalhost -uroot -p
+# debe listar databases de MySQL
